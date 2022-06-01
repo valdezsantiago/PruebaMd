@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>PruebaMd</title>
 </head>
 <body>
 <div>
